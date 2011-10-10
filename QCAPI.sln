@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCAPI", "QCAPI\QCAPI.csproj", "{A0E09CCF-759B-4FC1-8315-11B6AB974EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCAPI.Tests", "QCAPI.Tests\QCAPI.Tests.csproj", "{292A2DC9-9E73-497D-AA3A-50763A71BF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCToYouTrack", "QCToYouTrack\QCToYouTrack.csproj", "{A064D875-E40F-4646-8738-D18D7F984669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandocWrapper", "PandocWrapper\PandocWrapper.csproj", "{3CE88696-DDCF-4BF2-9B53-9903E3BEFB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E09CCF-759B-4FC1-8315-11B6AB974EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E09CCF-759B-4FC1-8315-11B6AB974EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E09CCF-759B-4FC1-8315-11B6AB974EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E09CCF-759B-4FC1-8315-11B6AB974EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292A2DC9-9E73-497D-AA3A-50763A71BF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292A2DC9-9E73-497D-AA3A-50763A71BF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292A2DC9-9E73-497D-AA3A-50763A71BF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292A2DC9-9E73-497D-AA3A-50763A71BF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A064D875-E40F-4646-8738-D18D7F984669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A064D875-E40F-4646-8738-D18D7F984669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A064D875-E40F-4646-8738-D18D7F984669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A064D875-E40F-4646-8738-D18D7F984669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE88696-DDCF-4BF2-9B53-9903E3BEFB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE88696-DDCF-4BF2-9B53-9903E3BEFB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE88696-DDCF-4BF2-9B53-9903E3BEFB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE88696-DDCF-4BF2-9B53-9903E3BEFB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
