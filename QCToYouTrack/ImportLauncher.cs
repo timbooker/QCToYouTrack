@@ -7,7 +7,7 @@ using YouTrackSharp.Issues;
 
 namespace QCToYouTrack
 {
-    public class Class1
+    public class ImportLauncher
     {
         public void Go()
         {
